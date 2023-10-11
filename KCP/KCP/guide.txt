@@ -1,0 +1,26 @@
+1.html 		Login							style.css		Light
+1-1.html	Dark Login						style-b.css		Dark
+2.html 		SignUp							bc1.html		Bryan Works
+2-1.html 	Dark SignUp
+3.html 		Light Website
+3-1.html 	Dark Website
+4.html		Forgot Password
+4-1.html	Dark Forgot Password
+5.html		Gallery
+5-1.html	Dark Gallery
+6.html		Our Courses
+6-1.html	Dark Our Courses
+7.html		Other Services
+7-1.html	Dark Other Services
+8.html		E-Learning
+8-1.html	Dark E-Learning
+9.html		Admission
+9-1.html	Dark Admission
+10.html		Social Reach
+10-1.html	Dark Social Reach
+11.html		Reach Us
+11-1.html	Dark Reach Us
+12.html		Admission Form
+12.1.html	Successful
+12-1.html	Dark Admission Form
+12.1-1.html	Dark Successful
